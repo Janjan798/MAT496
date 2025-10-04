@@ -3,3 +3,15 @@ langchain-google-genai
 google-genai
 python-dotenv
 sentence-transformers
+langgraph
+langgraph-sdk
+langgraph-checkpoint-sqlite
+langsmith>=0.2.0
+langchain-community
+langchain-core
+langchain-openai
+notebook
+lxml
+scikit-learn
+pandas
+pyarrow
