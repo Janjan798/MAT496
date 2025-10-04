@@ -21,4 +21,7 @@ Module 1:
             -changed run type for a llm trace to tool to see what happens
             -nothing website still rendered output as if it were done by a llm
     
-    Lesson 3():
+    Lesson 3(alternative_tracing_methods.ipynb):
+        - Learn about the alternatives to @traceable
+        - If we are using OpenAI SDK its easier and logical to use their OpenAI_Wrap
+        - Can also use with trace() which is built into python and gives us more granular control
