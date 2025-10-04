@@ -25,3 +25,15 @@ Module 1:
         - Learn about the alternatives to @traceable
         - If we are using OpenAI SDK its easier and logical to use their OpenAI_Wrap
         - Can also use with trace() which is built into python and gives us more granular control
+
+    Lesson 4(converstational_threads.ipynb):
+        - Learnt about threads and using UUID for threads
+        - Learnt about why threads are useful by checking my project on langchain website and filtering
+        by thread
+
+        -CHANGES MADE:
+            - Experimented by changing the messages to the llm about me
+
+
+Module 2:
+
