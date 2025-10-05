@@ -36,4 +36,9 @@ Module 1:
 
 
 Module 2:
-
+    Lesson 1(dataset_upload.ipynb):
+        - Learnt about the concept of dataset in Langsmith
+        - Learnt multiple ways of adding examples to the dataset
+        
+        -CHANGES MADE:
+            - Added my own example at the bottom
