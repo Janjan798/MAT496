@@ -34,6 +34,7 @@ Module 1:
         -CHANGES MADE:
             - Experimented by changing the messages to the llm about me
 
+----------
 
 Module 2:
     Lesson 1(dataset_upload.ipynb):
@@ -58,3 +59,12 @@ Module 2:
 
         -CHANGES MADE:
             - Tweaked it to run a split i had created called base split instead of runnning on inital dataset
+
+    Lesson 4:
+        - Learn how to compare experiments on the Langsmith UI
+        - Learnt how to filter and check the evaluators functioning in the UI as well
+
+        -CHANGES MADE:
+            - No code so just meddled with the filters in the UI
+
+----------
