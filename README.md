@@ -42,3 +42,12 @@ Module 2:
         
         -CHANGES MADE:
             - Added my own example at the bottom
+
+    Lesson 2():
+        - Learnt how evaluators calculate metrics based on a run and an example.
+        - we can define evaluators directly in out code or else in langsmith UI
+
+        -CHANGES MADE:
+            - Added my own example to test how the similarity score works when answer is half right.
+
+    Lesson 3():
