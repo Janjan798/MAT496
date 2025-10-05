@@ -18,8 +18,8 @@ Module 1:
         specify the run_type
 
         -CHANGES MADE:
-            -changed run type for a llm trace to tool to see what happens
-            -nothing website still rendered output as if it were done by a llm
+            -Changed run type for a llm trace to tool to see what happens
+            -Nothing website still rendered output as if it were done by a llm
     
     Lesson 3(alternative_tracing_methods.ipynb):
         - Learn about the alternatives to @traceable
@@ -43,11 +43,18 @@ Module 2:
         -CHANGES MADE:
             - Added my own example at the bottom
 
-    Lesson 2():
+    Lesson 2(evaluators.ipynb):
         - Learnt how evaluators calculate metrics based on a run and an example.
-        - we can define evaluators directly in out code or else in langsmith UI
+        - We can define evaluators directly in out code or else in langsmith UI
 
         -CHANGES MADE:
             - Added my own example to test how the similarity score works when answer is half right.
 
-    Lesson 3():
+    Lesson 3(experiments.ipynb):
+        - Experiments- running application over a dataset and evaluating its performance
+        - Can be run locally in code 
+        - Can be run over whole datasets, specific versions or splits.
+        - Can be run with other parameters repetitions,concurrent threads, metadata.
+
+        -CHANGES MADE:
+            - Tweaked it to run a split i had created called base split instead of runnning on inital dataset
