@@ -77,7 +77,7 @@ Module 3:
         -CHANGES MADE:
             - Changed the questions uploaded(dataset)
 
-    Lesson 2()
+    Lesson 2:
         - Walked through prompt hub and how it works
         - How to create and commit changes to a prompt on the UI
         - How to push commits using the SDK
@@ -86,7 +86,7 @@ Module 3:
         - Went through an end to end example on prompt hub
         - Learnt how to iterate a prompt
 
-    Lesson 4():
+    Lesson 4:
         - Prompt canvas lets us ask the agent to write update or comment on existing prompts
         -CHANGES MADE(for lesson3 and 4)
             - Worked in the UI
