@@ -76,4 +76,12 @@ Module 3:
     
     -CHANGES MADE:
         - Changed the questions uploaded(dataset)
+
+    Lesson 2()
+        - Walked through prompt hub and how it works.
+        - How to create and commit changes to a prompt on the UI
+        - How to push commits using the SDK
+
+    Lesson 3()
+        - 
     
