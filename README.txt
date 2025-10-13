@@ -87,6 +87,9 @@ Module 3:
         - Learnt how to iterate a prompt
 
     Lesson 4():
-        -
+        - Prompt canvas lets us ask the agent to write update or comment on existing prompts
+        -CHANGES MADE(for lesson3 and 4)
+            - Worked in the UI
+            - changed the quick actions filters in prompt canvas
 
     
