@@ -68,3 +68,12 @@ Module 2:
             - No code so just meddled with the filters in the UI
 
 ----------
+
+Module 3:
+    Lesson 1(playground_experiments.ipynb):
+        - Walked through functionality of Langsmith Playground
+        - Uploaded dataset from code to langsmith and used it to check on playground
+    
+    -CHANGES MADE:
+        - Changed the questions uploaded(dataset)
+    
