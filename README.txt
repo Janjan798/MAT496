@@ -74,14 +74,19 @@ Module 3:
         - Walked through functionality of Langsmith Playground
         - Uploaded dataset from code to langsmith and used it to check on playground
     
-    -CHANGES MADE:
-        - Changed the questions uploaded(dataset)
+        -CHANGES MADE:
+            - Changed the questions uploaded(dataset)
 
     Lesson 2()
-        - Walked through prompt hub and how it works.
+        - Walked through prompt hub and how it works
         - How to create and commit changes to a prompt on the UI
         - How to push commits using the SDK
 
-    Lesson 3()
-        - 
+    Lesson 3(prompt_engineering_lifecycle.ipynb)
+        - Went through an end to end example on prompt hub
+        - Learnt how to iterate a prompt
+
+    Lesson 4():
+        -
+
     
