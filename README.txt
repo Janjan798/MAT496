@@ -112,8 +112,12 @@ Module 1:
         - Basic Introduction to how we will be using Langsmith studio
         - No Code changed the graph state in the UI and watched the thread
 
-    Lesson 4():
-        - 
+    Lesson 4(chain.ipynb):
+        - Learnt how to use chat messages and models in out graph
+        - Learnt to bind tools to our chat model and execute tool calls in graph nodes
+
+        -CHANGES MADE():
+            - Added another tool call which raise a to the power of b and checked the output
 
 
     
