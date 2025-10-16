@@ -116,8 +116,21 @@ Module 1:
         - Learnt how to use chat messages and models in out graph
         - Learnt to bind tools to our chat model and execute tool calls in graph nodes
 
-        -CHANGES MADE():
+        -CHANGES MADE:
             - Added another tool call which raise a to the power of b and checked the output
+
+    Lesson 5(router.ipynb):
+        - Learnt how to make a simple router which decides between a tool call and a NLM
+        - Learnt how to check the graph on Langsmith studio
+
+        -CHANGES MADE:
+            - Changed the message from multiplication to a question about me to check if it still called the tool
+            - It also doesnt work perfectly as if you also ask what is 2 raised to the power of 3, it gets confused and messes it up
+
+
+    Lesson 6():
+        - 
+
 
 
     
