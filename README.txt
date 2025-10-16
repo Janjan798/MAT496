@@ -88,9 +88,10 @@ Module 3:
 
     Lesson 4:
         - Prompt canvas lets us ask the agent to write update or comment on existing prompts
-        -CHANGES MADE(for lesson3 and 4)
+
+        -CHANGES MADE(for lesson3 and 4):
             - Worked in the UI
-            - changed the quick actions filters in prompt canvas
+            - Changed the quick actions filters in prompt canvas
 
 ----------
 
@@ -101,6 +102,11 @@ Module 1:
         - Langgraph helps you increase the reliability of agents when you give them more control
         - Intro lesson so no changes/code
 
-    Lesson 2:
+    Lesson 2(simple-graph.ipynb):
+        - Learnt about the core components of langgraph and how to make a simple graph
+
+        -CHANGES MADE:
+            - Added a node4 and changed the probabilities to 33% for each node
+
 
     
