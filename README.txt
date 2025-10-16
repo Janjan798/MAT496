@@ -128,8 +128,16 @@ Module 1:
             - It also doesnt work perfectly as if you also ask what is 2 raised to the power of 3, it gets confused and messes it up
 
 
-    Lesson 6():
+    Lesson 6(agent.ipynb):
+        - Learnt how to set up an agent
+        - Basically routing the tools back to the LLM in a loop so that the llm can think and act upon the output
+
+        -CHANGES MADE:
+            - Added a power tool function and changed the human message to see if it works.
+
+    Lesson 7():
         - 
+
 
 
 
