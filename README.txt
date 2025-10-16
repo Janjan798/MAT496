@@ -135,8 +135,11 @@ Module 1:
         -CHANGES MADE:
             - Added a power tool function and changed the human message to see if it works.
 
-    Lesson 7():
-        - 
+    Lesson 7:
+        - Learn how to make the agent remember the output of a previous humanmessage
+        - Done by using threads - a collection of checkpoints (referenced by thread id)
+
+
 
 
 
