@@ -92,4 +92,15 @@ Module 3:
             - Worked in the UI
             - changed the quick actions filters in prompt canvas
 
+----------
+
+Intro to Langgraph:
+Module 1:
+    Lesson 1:
+        - An agent is basically a control flow set by a LLM
+        - Langgraph helps you increase the reliability of agents when you give them more control
+        - Intro lesson so no changes/code
+
+    Lesson 2:
+
     

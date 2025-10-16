@@ -15,3 +15,8 @@ lxml
 scikit-learn
 pandas
 pyarrow
+langgraph-prebuilt
+tavily-python
+wikipedia
+trustcall
+langgraph-cli[inmem]
