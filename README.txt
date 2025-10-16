@@ -108,5 +108,12 @@ Module 1:
         -CHANGES MADE:
             - Added a node4 and changed the probabilities to 33% for each node
 
+    Lesson 3:
+        - Basic Introduction to how we will be using Langsmith studio
+        - No Code changed the graph state in the UI and watched the thread
+
+    Lesson 4():
+        - 
+
 
     
