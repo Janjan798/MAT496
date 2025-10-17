@@ -133,12 +133,25 @@ Module 1:
         - Basically routing the tools back to the LLM in a loop so that the llm can think and act upon the output
 
         -CHANGES MADE:
-            - Added a power tool function and changed the human message to see if it works.
+            - Added a power tool function and changed the human message to see if it works
 
     Lesson 7:
         - Learn how to make the agent remember the output of a previous humanmessage
         - Done by using threads - a collection of checkpoints (referenced by thread id)
 
+----------
+
+Module 2:
+    Lesson 1(state-schema.ipynb):
+        - Learnt how to specify the schema of graph. the structure and types of data a graph will use
+        - Typedict and Dataclasses doesnt enforce datatype validation during runtime
+        - Learnt how to use pydantic to set up state schema for graphs and do data validation
+
+        -CHANGES MADE:
+            - Added my own pydantic state schema which checks the 'sex' argument, and validates between 'a man' % 'a woman'
+
+    Lesson 2():
+        - 
 
 
 
