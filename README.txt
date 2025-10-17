@@ -150,7 +150,16 @@ Module 2:
         -CHANGES MADE:
             - Added my own pydantic state schema which checks the 'sex' argument, and validates between 'a man' % 'a woman'
 
-    Lesson 2():
+    Lesson 2(state-reducers.ipynb):
+        - In graphs trying to update the same value more than once in the same step wont work as its ambiguous for the graph to decide which state to keep
+        - Hence we use Reducers, to specify how to perform the updates
+        - Can also use custom reducer states to handle specific values like null values
+
+
+        -CHANGES MADE:
+            - Changed the inputs and update values for the first simple graph with the add operator
+    
+    Lesson 3():
         - 
 
 
