@@ -159,9 +159,16 @@ Module 2:
         -CHANGES MADE:
             - Changed the inputs and update values for the first simple graph with the add operator
     
-    Lesson 3():
-        - 
+    Lesson 3(multipe-schemas.ipynb):
+        - Learnt about overall state and private states
+        - The nodes of a graph have information which may not be relevant to the input/output and hence we use private states to have more contol over what the user sees in input time
+        - Learnt how to define explicit input and output schemas for a graph
 
+        -CHANGES MADE:
+            - Added another node so made the graph 3 nodes instead of 2, to increment using private state once more
+
+    Lesson 4():
+        - 
 
 
 
