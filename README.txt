@@ -181,9 +181,14 @@ Module 2:
         -CHANGES MADE:
             - Changed the input to the llm giving details about me and checked the summary
 
-    Lesson 6():
-        - 
+    Lesson 6(chatbot-external-memory.ipynb):
+        - Learnt how to persist the messages locally using SQLITE
+        - Used Langsmith Studio also to go through the same
 
+        -CHANGES MADE:
+            - Changed the input to the llm giving details about me and checked if the messages persisted locally
+            - Went into langsmith studio and saw how and when it triggered the summarize conversation node 
+----------
 
 
     
