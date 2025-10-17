@@ -174,7 +174,14 @@ Module 2:
         -CHANGES MADE:
             - Added another human message asking about blue whales after narwhals while filtering the latest message to the llm
 
-    Lesson 5():
+    Lesson 5(chatbot-summarization.ipynb):
+        - Learn how to produce a running summary of the conversation
+        - Used threads like we learnt in module 1 to give the llm memory using a collection of checkpoints
+
+        -CHANGES MADE:
+            - Changed the input to the llm giving details about me and checked the summary
+
+    Lesson 6():
         - 
 
 
