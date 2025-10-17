@@ -167,9 +167,15 @@ Module 2:
         -CHANGES MADE:
             - Added another node so made the graph 3 nodes instead of 2, to increment using private state once more
 
-    Lesson 4():
-        - 
+    Lesson 4(trim-filter-messages.ipynb):
+        - Long running chat converstation have high token usage
+        - To optimize we can remove/filter/trim the messages going to the llm
 
+        -CHANGES MADE:
+            - Added another human message asking about blue whales after narwhals while filtering the latest message to the llm
+
+    Lesson 5():
+        - 
 
 
 
