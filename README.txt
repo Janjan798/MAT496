@@ -199,7 +199,14 @@ Module 3:
         -CHANGES MADE:
             - Changed the input prompts and the thread ids of the prompts
 
-    Lesson 2():
+    Lesson 2(breakpoints.ipynb):
+        - Breakpoints allow us to stop the graphs at specific states
+        - You can make it interrupt before a node or after
+        
+        -CHANGES MADE:
+            - Added powerof tool and used that to check the interrupt before
+
+    Lesson 3():
         - 
 
 
