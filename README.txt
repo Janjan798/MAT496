@@ -191,5 +191,16 @@ Module 2:
 
 ----------
 
+Module 3:
+    Lesson 1(streaming-interruption.ipynb):
+        - Streaming outputs/messages from the chat model whether they are tool calls or just natural language responses
+        - 2 different streaming modes(values, updates)
+        
+        -CHANGES MADE:
+            - Changed the input prompts and the thread ids of the prompts
+
+    Lesson 2():
+        - 
+
 
     
