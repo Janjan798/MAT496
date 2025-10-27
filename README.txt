@@ -213,7 +213,15 @@ Module 3:
             - Added new tool which calculates the remainder
             - Made the input prompt to the llm have more steps to and saw how it stopped after each point
     
-    Lesson 4():
+    Lesson 4(dynamic-breakpoints.ipynb):
+        - Dynamic breakpoints, how to make the graph interrupt itself, like on a condition
+        - We do this using NodeInterrupt
+        - Langsmith studio was malfunctioning so couldnt run that part of the code
+        
+        -CHANGES MADE:
+            - Changed the dynamic breakpoint to get triggered if a number greater than 5 is inputted
+
+    Lesson 5():
         - 
 
 
