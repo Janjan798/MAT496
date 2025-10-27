@@ -216,7 +216,6 @@ Module 3:
     Lesson 4(dynamic-breakpoints.ipynb):
         - Dynamic breakpoints, how to make the graph interrupt itself, like on a condition
         - We do this using NodeInterrupt
-        - Langsmith studio was malfunctioning so couldnt run that part of the code
         
         -CHANGES MADE:
             - Changed the dynamic breakpoint to get triggered if a number greater than 5 is inputted
