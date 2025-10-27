@@ -206,7 +206,14 @@ Module 3:
         -CHANGES MADE:
             - Added powerof tool and used that to check the interrupt before
 
-    Lesson 3():
+    Lesson 3(edit-state-human-feedback.ipynb):
+        - Learnt how to change the human message after stopping at a breakpoint
+
+        -CHANGES MADE:
+            - Added new tool which calculates the remainder
+            - Made the input prompt to the llm have more steps to and saw how it stopped after each point
+    
+    Lesson 4():
         - 
 
 
