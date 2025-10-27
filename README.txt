@@ -221,8 +221,13 @@ Module 3:
         -CHANGES MADE:
             - Changed the dynamic breakpoint to get triggered if a number greater than 5 is inputted
 
-    Lesson 5():
-        - 
+    Lesson 5(time-travel.ipynb):
+        - We can re run our agent from any of the prior steps by passing a checkpoint id and thread id
+        - Learnt the difference between replaying and reexecuting
 
+        -CHANGES MADE:
+            - Added subtract tool
+            - Changed the input to the forked prompt
 
+----------
     
