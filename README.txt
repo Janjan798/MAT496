@@ -155,7 +155,6 @@ Module 2:
         - Hence we use Reducers, to specify how to perform the updates
         - Can also use custom reducer states to handle specific values like null values
 
-
         -CHANGES MADE:
             - Changed the inputs and update values for the first simple graph with the add operator
     
@@ -230,3 +229,13 @@ Module 3:
 
 ----------
     
+Module 4:
+    Lesson 1(parallelization.ipynb):
+        - Learnt how parallelization works between nodes and how to set your own order for state updates
+        - Learnt how to gather context from two different souces for a question and make the llm answer with context
+    
+        -CHANGES MADE:
+            - Added new states in the graph with the custom reducers
+
+    Lesson 2():
+        - 
