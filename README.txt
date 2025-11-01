@@ -237,5 +237,10 @@ Module 4:
         -CHANGES MADE:
             - Added new states in the graph with the custom reducers
 
-    Lesson 2():
+    Lesson 2(sub-graph.ipynb):
+        - Learnt how to integrate subgraphs with your use case
+        - Graphs communicate with each other using overlapping keys, the keys are what each graph can access from one another
+        - It was a toy subgraph so did not make changes
+
+    Lesson 3():
         - 
