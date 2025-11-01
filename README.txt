@@ -249,5 +249,13 @@ Module 4:
             - Changed the input prompts
             - It takes a sport generates 3 players from that sport, makes jokes and selects the best one
 
-    Lesson 4():
-        - 
+    Lesson 4(research-assistant.ipynb):
+        - Learnt how to build a full blown multi agent research assistant
+        - We generate experts and have analysts question the experts in said topic to gain insights into the topic
+        - Then we generate a report based on the conversations betweent them
+    
+        -CHANGES MADE:
+            - Changed the topic to sleep schedule
+            - Changed the question instructions prompt for the analyst
+        
+----------
