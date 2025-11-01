@@ -242,5 +242,12 @@ Module 4:
         - Graphs communicate with each other using overlapping keys, the keys are what each graph can access from one another
         - It was a toy subgraph so did not make changes
 
-    Lesson 3():
+    Lesson 3(map-reduce.ipynb):
+        - Learnt how to map-reduce which helps in task decomposition and parallel processing
+
+        -CHANGES MADE:
+            - Changed the input prompts
+            - It takes a sport generates 3 players from that sport, makes jokes and selects the best one
+
+    Lesson 4():
         - 
